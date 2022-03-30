@@ -1,0 +1,36 @@
+'''conversions int into float &str'''
+# a=12
+# print(type(a))   #int
+# print(a,type(a))   #12 int
+# print(int(a))   #12
+# print(float(a))   #12.0
+# print(str(a))    #12
+
+'''conversions float into int & str '''
+# a=12.2
+# print(type(a))  #float
+# print(int(a))  #12
+# print(str(a))  #12.2
+# print(float(a))  #12.2
+
+# b=10.10
+# print(type(b))   #float
+# print(int(b))  #10
+# print(str(b))   #10.1
+# print(float(b))   #10.1
+
+'''convert float into int&str'''
+# a="shn"
+# print(type(a))
+# print(int(a))   #(we can't convert float into int and str when str contains some word or text) 
+# print(float(a))   #(we can't convert float into int and str when str contains some word or text) 
+# a='2000'
+# print(type(a))  #str
+# print(int(a))   #2000         (...when str contains int values then we can directly change int and float)      
+# print(float(a))  #2000.0
+# a='20.00'
+# print(type(a))
+# print(float(a))            
+# s=float(a)
+# print(int(s))
+# print(float(s))
