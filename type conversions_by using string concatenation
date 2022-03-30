@@ -1,0 +1,19 @@
+'''str concatenation'''
+# world='shainaz'
+# print("hello", world)
+# print('hello'+int(world))    ( value error:str contains some text)
+# print('hello'+float(world))
+# a='42'
+# print('my roll num is',a)
+# print('my roll num is'+a)
+# print("my roll num is  "+a)
+# print("""my roll num is """,int(a))
+# print("my roll num is"+" ",float(a))
+# a='3.6'
+# print('float number is '+a)
+# print('float number is'+a)
+# print('float  number is'+' ',str(a))
+# print('float  number is',str(a))
+# b=float(a)
+# print('float number is  ',int(b))
+# print('float number is',int(b))
